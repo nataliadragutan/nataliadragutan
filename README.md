@@ -1,6 +1,6 @@
 <h1 align="center">Hi There!👋</h1>
 
----
+
 <br>
 
 ![github banner](https://github.com/nataliadragutan/nataliadragutan/assets/76886215/67f2fc09-a8a4-4fd9-a321-0f2eebd8ec72)
