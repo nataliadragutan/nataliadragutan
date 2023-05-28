@@ -3,7 +3,8 @@
 ---
 <br>
 
-![github banner](design3.png)
+![github banner](https://github.com/nataliadragutan/nataliadragutan/assets/76886215/67f2fc09-a8a4-4fd9-a321-0f2eebd8ec72)
+
 <br>
 <p align="center">Welcome to my GitHub profile! I'm delighted to have you here. Take a moment to explore my repositories and see what I've been working on. If you have any questions or would like to collaborate, feel free to reach out.</p>
 <br>
